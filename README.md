@@ -9,6 +9,8 @@ Added by master branch.
 
 Added by test-branch3.
 
+Added by test-branch2.
+
 Random text in here.
 
 Added another text, by Master branch.
