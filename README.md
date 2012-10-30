@@ -9,7 +9,7 @@ Added by master branch.
 
 Modified by test-branch3.
 
-Added by test-branch2.
+Added by test-branch2. [CAPTION]
 
 Random text in here.
 
